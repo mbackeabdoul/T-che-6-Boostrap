@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar */
+.navbar img{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+
+
+}
+
+.navbar a{
+    font-weight: 500;
+    font-size:20px;
+}
+
+.nav-btn{
+    display: inline;
+    padding: 6px 6px;
+    border: 1px solid;
+    letter-spacing:2px;
+    text-decoration: none;
+    background-color: #FF9800;
+    color: white;
+    font-weight: 100;
+    font-size: 10px;
+}
+/* fin */
+
+
+/* section1 */
+.section1 .linear{
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%);
+    
+    
+}
+
+.linear .btn{
+    background-color: #FF9800;
+    color:white;
+}
+
+/* .flex-image img{
+} */
+
+/* fin */
+
+/*  */
+
+.image-icone img{
+    width: 50px;
+    height: 50px;
+}
+/*  */
+.Cooper{
+border: 1px solid #009688;
+}
+
+.item{
+    color: gray;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    padding: 2px;
+    width: 10px;
+    height: 5;
+    display: inline;
+}
+/* section */
+.section-diplome{
+    background-image: url(./images/Rectangle\ 11.png);
+}
+
+.vector{
+    background-image:url();
+}
+
+/* .background-rouge{
+    background-image: url(./images/Vector.png);
+}  */
+
+.bakelistes{
+    background-image:url(./images/Rectangle\ 63.png);
+}
+
+/* section-partenaire */
+
+.image-partenaire img{
+    width: 150px;
+    height: 100px;
+}
+/* 
+.image-icone img{
+    background: #F44336;
+} */
